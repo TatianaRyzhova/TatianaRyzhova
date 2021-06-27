@@ -15,6 +15,7 @@ Currently, I work as a Frontend Engineer for more than 6 months already. I have 
 - 🌱 I’m currently learning Patterns
 - 👯 I’m looking to collaborate on interesting projects with amazing collegues
 - 💬 Ask me about React, JS
+- 📫 How to reach me: tanyaryzhova93@gmail.com
 
 <!--
 **TatianaRyzhova/TatianaRyzhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
