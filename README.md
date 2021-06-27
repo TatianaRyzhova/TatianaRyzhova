@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaRyzhova&layout=compact)
 
 ![Tatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaRyzhova&show_icons=true)
-
-
