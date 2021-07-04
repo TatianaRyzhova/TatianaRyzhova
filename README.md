@@ -9,7 +9,7 @@ Finally, I've made a decision to change my specialty to Frontend Engineer.
 FE is just magic, it attracts me because you can get the result immediately. You can see the app from the end-user perspective.
 Also, FE gives you a place for creativity: colors, animations...
 
-Currently, I work as a Frontend Engineer for more than 6 months already. I have a strong desire to develop my professional skills in this area and just to move forward!
+Currently, I work as a Frontend Engineer and I have a strong desire to develop my professional skills in this area and just to move forward!
 
 - 🔭 I’m currently working on my interactive resume
 - 🌱 I’m currently learning Patterns
