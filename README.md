@@ -1,6 +1,6 @@
 ## Hi there! 🙋🏻‍♀️
 
-### I'm Tatiana and I'm a Frontend Engineer ✨
+<!-- ### I'm Tatiana and I'm a Frontend Engineer ✨
 
 I have been working in the IT area for more than 6 years. 
 I started my journey with software testing, however, I was always interested in product development.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaRyzhova&layout=compact)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaRyzhova&layout=compact) -->
